@@ -16,3 +16,11 @@ Same hosting, one page per store, in the `saqr/` folder (generated from the Saqr
 - **Google Play (AdMob) version**: https://samaneng2002.github.io/zadi-privacy-policy/saqr/google.html
 - **Huawei AppGallery (Petal Ads) version**: https://samaneng2002.github.io/zadi-privacy-policy/saqr/huawei.html
 - Index of both: https://samaneng2002.github.io/zadi-privacy-policy/saqr/
+
+## KineoFit (fitness & nutrition)
+
+Same hosting, one page per store (English + Arabic on each page), in the `kineofit/` folder (generated from the KineoFit repository by `docs/store/privacy/make_privacy.py`). Contact: kineofit.support@gmail.com
+
+- **Google Play version**: https://samaneng2002.github.io/zadi-privacy-policy/kineofit/google.html
+- **Huawei AppGallery version**: https://samaneng2002.github.io/zadi-privacy-policy/kineofit/huawei.html
+- Index of both: https://samaneng2002.github.io/zadi-privacy-policy/kineofit/
